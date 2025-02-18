@@ -1,4 +1,4 @@
-###Hotel Room Business Dashboard - Power BI
+#Hotel Room Business Dashboard - Power BI
 ##Overview
 This Power BI dashboard provides data-driven insights into hotel room business performance, including revenue, occupancy, booking trends, and key metrics. The goal is to help hotel managers optimize pricing, maximize revenue, and improve overall operational efficiency.
 
